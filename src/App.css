@@ -76,7 +76,6 @@ body{
 
 @media all and (max-width:500px) {
   .container{
-    margin: 10px;
     width: 400px;
   }
   body{
@@ -84,13 +83,3 @@ body{
   }
 }
 
-@media all and (max-width:800px) {
-  .container{
-    margin: 25px;
-    width: 500px;
-  }
-  body{
-    width: 800px;
-  }
-
-}
